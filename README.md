@@ -30,3 +30,8 @@ A continuación se listan los métodos implementados en el presente proyecto.
 
 - ### Método para resolver **ecuaciones diferenciales** (_con gráfica_)
   - Runge-Kutta 3
+
+___
+## Autores
+- Juan Felipe López Castaño
+- Samuel Echeverri Blandón
