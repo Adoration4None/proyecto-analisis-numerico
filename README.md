@@ -25,8 +25,8 @@ A continuación se listan los métodos implementados en el presente proyecto.
 
 - ### Cálculo de la integral definida de una función
   - Regla del trapecio múltiple
-  - Regla de Simpson 1/3
-  - Regla de Simpson 3/8
+  - Regla de Simpson 1/3 múltiple
+  - Regla de Simpson 3/8 múltiple
 
 - ### Método para resolver **ecuaciones diferenciales** (_con gráfica_)
   - Runge-Kutta 3
